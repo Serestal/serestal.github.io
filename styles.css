@@ -1,34 +1,29 @@
 *
 {
 	height: 100%;
-
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
 
 }
 
-	background: url('images/stripes.png');
 body{
+	background: url('images/stripes.png');
 }
 
 #header{
 	height: 70px;
-	display: flex;
 	margin: 0;
 	background-color: #56baec;
 }
 
 #header a{
-	width: 100%;
 	font-family: 'Poiret One', cursive; 
 	font-size: 25px;
 	font-weight: 100;
 	text-decoration: none;
 	color: #FFF0AA;
-	
-	display: flex;
-    justify-content: space-between;
+
 }
 
 #header a:hover{
@@ -39,7 +34,9 @@ body{
 }
 
 #header div{
-	width: 100%;
+	margin-top: 20px;
+	width: 20%;
+	float: left;
 	white-space:nowrap;
 	min-width: 110px;
 
@@ -48,24 +45,8 @@ body{
 }
 
 .but_1{
-	margin-top: 20px;
+	margin-top: 30px;
 	margin-left: 20%;
-}
-
-.but_2{
-	margin-top: 20px;
-}
-
-.but_3{
-	margin-top: 20px;	
-}
-
-.but_4{
-	margin-top: 20px;
-}
-
-.but_5{
-	margin-top: 20px;
 }
 
 #alice{
