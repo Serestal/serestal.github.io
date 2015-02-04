@@ -102,19 +102,6 @@ body{
 
 }
 
-.large_cursive{
-	color: #333354;
-	font-family: 'Homemade Apple', cursive; 
-	font-size: 45px;
-}
-
-.large_cursive_left{
-	color: #333354;
-	font-family: 'Homemade Apple', cursive; 
-	font-size: 45px;
-	text-align: left;
-}
-
 .large_cursive_center{
 	color: #333354;
 	font-family: 'Homemade Apple', cursive; 
@@ -170,11 +157,6 @@ body{
 	font-family: 'Poiret One', cursive;  
 	font-size: 15px;
 }
-
-.reg_small.paragraph{
-	text-align: left;
-}
-
 
 #textbox hr{
 	border: 0;
